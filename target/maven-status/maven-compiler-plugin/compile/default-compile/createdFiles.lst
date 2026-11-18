@@ -1,0 +1,5 @@
+com\actividad_1_3_3\model\AlertaFraude.class
+com\actividad_1_3_3\Actividad133Application.class
+com\actividad_1_3_3\model\Transaccion.class
+com\actividad_1_3_3\controller\SimuladorController.class
+com\actividad_1_3_3\config\PipelineTopology.class
